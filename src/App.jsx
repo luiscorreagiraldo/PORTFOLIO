@@ -2,15 +2,17 @@ import { useState } from "react";
 import "./App.css";
 import Header from "./components/Header/header"
 import Home from "./components/Home/Home"
-import About from "./components/about/About";
+import About from "./components/About/About";
+import Skills from "./components/Skills/Skills";
 function App() {
   return <div className="App">
 
    <Header/>
 
    <main className="main">
-    <Home></Home>
+    <Home/>
     <About/>
+    <Skills/>
    </main>
 
     </div>;
