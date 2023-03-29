@@ -58,8 +58,7 @@ const Data = () => {
       <h3 className="home__subtitle">Frontend Developer</h3>
       <p className="home__description">
         Highly motivated frontend developer based in Medellín-Colombia,
-        committed to the continuous improvement of my skills to keep me updated
-        on the latest trends and technologies.
+        committed to the continuous improvement of my skills.
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello
