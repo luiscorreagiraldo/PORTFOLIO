@@ -3,6 +3,7 @@ import "./Skills.css"
 import Frontend from './Frontend'
 import Languages from './Languages'
 import Methodologies from './Methodologies'
+import SoftSkills from './SoftSkills'
 
 const Skills = () => {
   return (
@@ -12,8 +13,7 @@ const Skills = () => {
     <Frontend/>
     <Methodologies/>
     <Languages/>
-    {/* softskills */}
-   </div>
+   <SoftSkills/>   </div>
     </section>
   )
 }
